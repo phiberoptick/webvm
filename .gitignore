@@ -4,3 +4,6 @@ pnpm-lock.yaml
 build/
 custom-disk-images/*
 !custom-disk-images/.gitkeep
+nginx_access.log
+nginx_error.log
+nginx_main_error.log
