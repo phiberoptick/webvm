@@ -162,7 +162,7 @@ npm run build
 nginx -p . -c nginx.conf
 ```
 
-Then open `http://127.0.0.1:8081` and enjoy your local WebVM!
+Then open http://127.0.0.1:8081 and enjoy your local WebVM!
 
 For the full Alpine desktop environment, see [leaningtech/alpine-image](https://github.com/leaningtech/alpine-image).
 
